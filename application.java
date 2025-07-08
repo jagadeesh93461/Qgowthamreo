@@ -6,10 +6,11 @@ public class Addition {
         System.out.println("Sum: " + sum);
     }
 }
-# code change with 202 feature by jagadeesh
+# featur202 changes by jagadeesh 
 public class Simple {
     public static void main(String[] args) {
         System.out.println("Welcome to Java Programming!");
     }
 }
-# end with jagadeesh
+# end of featur202
+}
